@@ -7,6 +7,6 @@ public class Testing3 {
 	@Test
 	public void simpleTest()
 	{
-		System.out.println("Simple Test exdecuted");
+		System.out.println("Simple Test exdecuted");	
 	}
 }
