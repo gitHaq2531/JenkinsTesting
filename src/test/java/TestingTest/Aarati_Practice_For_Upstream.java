@@ -15,5 +15,6 @@ public class Aarati_Practice_For_Upstream {
 	{
 	
 		System.out.println("todays practice 19-07-2025");
+		System.out.println("my update");
 	}
 }
