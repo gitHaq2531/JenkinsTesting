@@ -8,7 +8,6 @@ public class parnika {
 		System.out.println("hi");
 		System.out.println("bye");
 		System.out.println("ok");
-
 	}
 
 }
