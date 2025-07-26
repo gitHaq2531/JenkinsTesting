@@ -13,6 +13,8 @@ public class Akshay {
       System.out.println("vijay");
       System.out.println("thursday");
       System.out.println("rajesh");
+      System.out.println("ram");
+      
 	}
 
 }
